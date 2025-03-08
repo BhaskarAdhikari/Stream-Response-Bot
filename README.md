@@ -1,4 +1,5 @@
-**Chatbot using OpenAI API**
+Chatbot using OpenAI API
+
 Overview
 This Python project demonstrates how to build a simple chatbot using the OpenAI API. It includes functions for both standard and streaming responses from OpenAI's GPT-4 model. The code uses the openai library to send user prompts and receive responses from the API.
 
